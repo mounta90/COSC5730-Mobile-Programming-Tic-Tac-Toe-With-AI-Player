@@ -1,6 +1,6 @@
 Grade: 50/50
 
-# Program 5 - Tic Tac Toe
+# Program 5 - Tic Tac Toe with AI Player (Minimax Algorithm)
 
 ## COSC 5730
 
