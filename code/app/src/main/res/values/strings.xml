@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="btn_play_ai">Play AI</string>
+    <string name="btn_play_human">Play Human</string>
+    <string name="rb_human_vs_human">Human vs. Human</string>
+    <string name="rb_human_vs_ai">Human vs. AI</string>
+    <string name="rb_play_as_x">Play as X</string>
+    <string name="rb_play_as_o">Play as O</string>
+    <string name="fab_new_game">New Game</string>
+    <string name="tv_new_game_dialog_title">New Game</string>
+    <string name="tv_choose_game_type">Choose game type</string>
+    <string name="btn_new_game_play">Play</string>
+    <string name="btn_new_game_cancel">Cancel</string>
+
+    <string name="tv_winner_text">Winner - %1$s</string>
+    <string name="tv_loser_text">Loser - %1$s</string>
+    <string name="tv_tie_text">Game is tied!</string>
+</resources>
